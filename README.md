@@ -1,6 +1,6 @@
 # albert-extension
 
-a set of great [Albert Launcher](https://albertlauncher.github.io/)
+a set of extensions for great [Albert Launcher](https://albertlauncher.github.io/)
 
 ## installation
 
